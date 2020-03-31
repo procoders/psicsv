@@ -19,11 +19,11 @@ You have to check that [Node.js](https://nodejs.org/en/download) is installed
 ## Usage
 ### Enrich the data
 
-1. Put csv with companies list from Crunchbase *with URL column* to `data/` folder
-2. Run via `npx` in Terminal
+1. Save csv with companies list from Crunchbase *with URL column* 
+2. Run via `npx` in [Terminal](https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/)
 
 ```
-npx @procoders/psicsv -f data/<your_file_name>.csv
+npx @procoders/psicsv -f <path_to_your_file_name>.csv
 ```
 
 
